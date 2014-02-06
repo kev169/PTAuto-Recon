@@ -1,5 +1,11 @@
 import string, sys, re, time
 import http.client
+'''
+This is the first library I created but it works for what I needed
+By:Kevin Haubris
+If you find it use it as you wish but I probably won't maintain it.
+'''
+
 def test(test):
 	print("HELLO"+test)
 
